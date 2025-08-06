@@ -11,6 +11,6 @@ Reference: https://neetcode.io/practice?tab=neetcode150
     [x] Group Anagrams - Medium - 2025/07/28
     [x] Top K Frequent Elements - Medium - 2025/07/29
     [x] Encode and Decode Strings - Medium - 2025/08/06
-    [x] Product of Array Except Self - Medium -2025/08/06
-    [ ] Valid Sudoku - Medium 
+    [x] Product of Array Except Self - Medium - 2025/08/06
+    [x] Valid Sudoku - Medium - 2025/08/06
     [ ] Longest Consecutive Sequence - Medium
