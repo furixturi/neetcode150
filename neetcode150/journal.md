@@ -15,8 +15,8 @@ Reference: https://neetcode.io/practice?tab=neetcode150
     [x] Valid Sudoku - Medium - 2025/08/06
     [x] Longest Consecutive Sequence - Medium - 2025/08/06
 [] Two pointers
-    [] Valid Palindrome - Easy
-    [] Two Sum II Input Array Is Sorted - Medium
-    [] 3 Sum - Medium
+    [x] Valid Palindrome - Easy - 2025/08/07
+    [x] Two Sum II Input Array Is Sorted - Medium - 2025/08/07
+    [x] 3 Sum - Medium - 2025/08/07
     [] Container With Most Water - Medium
     [] Trapping Rain Water - Hard 
