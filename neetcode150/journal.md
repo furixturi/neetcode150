@@ -18,5 +18,5 @@ Reference: https://neetcode.io/practice?tab=neetcode150
     [x] Valid Palindrome - Easy - 2025/08/07
     [x] Two Sum II Input Array Is Sorted - Medium - 2025/08/07
     [x] 3 Sum - Medium - 2025/08/07
-    [] Container With Most Water - Medium
+    [x] Container With Most Water - Medium - 2025/08/08
     [] Trapping Rain Water - Hard 
