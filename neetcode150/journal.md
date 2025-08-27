@@ -14,9 +14,16 @@ Reference: https://neetcode.io/practice?tab=neetcode150
     [x] Product of Array Except Self - Medium - 2025/08/06
     [x] Valid Sudoku - Medium - 2025/08/06
     [x] Longest Consecutive Sequence - Medium - 2025/08/06
-[] Two pointers
+[x] Two pointers
     [x] Valid Palindrome - Easy - 2025/08/07
     [x] Two Sum II Input Array Is Sorted - Medium - 2025/08/07
     [x] 3 Sum - Medium - 2025/08/07
     [x] Container With Most Water - Medium - 2025/08/08
-    [] Trapping Rain Water - Hard 
+    [x] Trapping Rain Water - Hard - 2025/08/27
+[] Sliding window
+    [] Best Time to Buy and Sell Stock - Easy
+    [] Longest Substring Without Repeating Characters - Medium
+    [] Longest Repeating Character Replacement - Medium
+    [] Permutation In String - Medium
+    [] Minimum Window Substring - Hard
+    [] Sliding Window Maximum - Hard
