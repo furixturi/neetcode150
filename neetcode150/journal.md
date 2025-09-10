@@ -21,9 +21,9 @@ Reference: https://neetcode.io/practice?tab=neetcode150
     [x] Container With Most Water - Medium - 2025/08/08
     [x] Trapping Rain Water - Hard - 2025/08/27
 [] Sliding window
-    [] Best Time to Buy and Sell Stock - Easy
-    [] Longest Substring Without Repeating Characters - Medium
-    [] Longest Repeating Character Replacement - Medium
+    [x] Best Time to Buy and Sell Stock - Easy - 2025/08/27
+    [x] Longest Substring Without Repeating Characters - Medium - 2025/09/10
+    [x] Longest Repeating Character Replacement - Medium
     [] Permutation In String - Medium
     [] Minimum Window Substring - Hard
     [] Sliding Window Maximum - Hard
